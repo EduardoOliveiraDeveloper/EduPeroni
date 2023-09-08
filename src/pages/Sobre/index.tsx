@@ -20,7 +20,8 @@ export default function Sobre() {
            Como estamos localizados no Rio Grande do Sul, não pode faltar aquela carne e um delicioso churrasco .
           </p>
           <p>
-            Para acompanhar as massas italianas, nosso restaurante possui uma reserva de vinhos e sucos naturais,que combinam perfeitamente com o seu parto !
+            Para acompanhar as massas italianas, nosso restaurante possui uma reserva de vinhos e sucos naturais,
+            que combinam perfeitamente com o seu prato!
           </p>
         </div>
       </div>
